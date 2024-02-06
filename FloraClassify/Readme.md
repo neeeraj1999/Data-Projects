@@ -1,1 +1,4 @@
+## FloraClassify : Iris Species Identifier
 
+## Overview
+In this project, the core algorithm, SVM, is implemented using Scikit-learn, a powerful library for machine learning. For data manipulation and analysis, Pandas is used, offering robust data structures and operations. Visualization of data and results is adeptly handled by Matplotlib and Seaborn, which provide advanced plotting capabilities, enhancing the interpretability of the model's performance and the underlying dataset characteristics. The Dataset is taken from Kaggle. The project's focus on metrics, such as accuracy, aids in evaluating the SVM classifier's effectiveness, offering insights into its predictive capabilities and performance in classifying Iris species based on flower characteristics. These tools together create a comprehensive environment for executing and showcasing the SVM-based classification model.
