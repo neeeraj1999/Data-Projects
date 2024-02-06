@@ -1,1 +1,2 @@
-
+## Overview
+The project applies K-Nearest Neighbors, Logistic Regression Decision Tree, and Random Forest algorithms for predictive analysis.The dataset is divided into training and testing sets in a 70:30 ratio. The approach includes data preprocessing, attribute selection, and algorithm application to predict campus placements. By employing a confusion matrix, the project was able to quantitatively assess the performance of each model, offering a clear view of their predictive capabilities.  
